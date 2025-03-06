@@ -1,8 +1,12 @@
-👋 Hi, I’m Firas Ben Kraiem
+👋 Hi, I’m Firas Ben Kraiem.
+
 👀 I’m interested in game development, web development, and embedded systems.
+
 💞️ I’m looking to collaborate on web applications, game development, and IoT projects.
-📫 How to reach me: [ferrbenkraiem@gmail.com]
-⚡ Portfolio: https://portfolio-firas-ben-kraiem.netlify.app
+
+📫 How to reach me: [ferrbenkraiem@gmail.com].
+
+⚡ Portfolio: https://portfolio-firas-ben-kraiem.netlify.app.
 
 
 <!---
